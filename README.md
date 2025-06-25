@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,e6ccff&height=200&section=header&text=Hola,%20soy%20Nao!%20💖&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,e6ccff&height=200&section=header&text=Hola,%20soy%20Noe!%20💖&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">UX/UI Designer & Frontend Developer ✨</h2>
