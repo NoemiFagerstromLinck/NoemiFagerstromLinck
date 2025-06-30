@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">UX/UI Designer & Frontend Developer ✨</h2>
-<p align="center">Apasionada por crear experiencias digitales hermosas, funcionales y centradas en las personas. Desde e-commerce hasta videojuegos 🎮💍</p>
+<p align="center">Apasionada por crear experiencias digitales hermosas, funcionales y centradas en las personas. Desde e-commerce hasta videojuegos 🎮</p>
 
 ---
 
