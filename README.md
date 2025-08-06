@@ -60,7 +60,7 @@ Tienda online de lentes ópticos y de sol. Migración a Shopify, diseño visual,
 
 ### 🏗️ Comercializadora Santa Rosa
 Catálogo web para empresa minera. Branding desde cero, diseño simple pero funcional, orientado a cotizaciones y contacto directo. Sitio hecho a medida.
-🔗 [bravertiendaoptica.cl](https://repsantarosa.cl)
+🔗 [repsantarosa.cl](https://repsantarosa.cl)
 
 ### 🎮 Planet Infinity
 Juego desarrollado en Unreal Engine 5 como proyecto de tesis. Incluye menú funcional, introducción narrativa, y primer nivel. Exploración de mecánicas y ambientación.
