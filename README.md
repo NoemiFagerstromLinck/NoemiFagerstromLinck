@@ -85,7 +85,7 @@ Juego desarrollado en Unreal Engine 5. Incluye menú, introducción narrativa y 
 ## 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoemiFagerstromLinck&show_icons=true&theme=radical&icon_color=ffb6c1" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NoemiFagerstromLinck&show_icons=true&include_all_commits=true&theme=radical&icon_color=ffb6c1" />
 </p>
 
 
